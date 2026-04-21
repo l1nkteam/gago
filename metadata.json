@@ -1,0 +1,8 @@
+{
+  "name": "NexusSaaS - Multi-Tenant Agency Management Platform",
+  "description": "A comprehensive full-stack SaaS platform for agencies and clients with lead generation, SEO audits, billing, and drag-and-drop page building.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
